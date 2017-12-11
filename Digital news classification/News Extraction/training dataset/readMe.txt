@@ -1,0 +1,2 @@
+We have created a code that performs repetitive google searches to collect all the news from different domains like floods,strikes,safety(includes robbery,cyclone,epdemic breakout),others(all other news).
+Machine learning algorithm classifies them into all four domains.
